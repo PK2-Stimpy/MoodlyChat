@@ -71,4 +71,4 @@ java FileCryptoCLI decrypt <file> <key>
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
